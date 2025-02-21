@@ -113,3 +113,19 @@
     text-align: center;
 }
 
+.header-ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+.header-ul li{
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+}
+.header-ul li a{
+    text-decoration: none;
+    color: black;
+}
+
