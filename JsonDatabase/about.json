@@ -1,0 +1,132 @@
+{
+    "name": "Straw Hats",
+    "description": "We are a company that specializes in providing high-quality products to our customers.",
+    "mission": "Our mission is to deliver exceptional value and service.",
+    "contact": {
+        "email": "contact@strawhats.com",
+        "phone": "123-456-7890",
+        "address": "123 Main Street, Windmill Village, East Blue"
+    },
+    "employees": [
+        {
+            "id": 1121,
+            "name": "Monkey D. Luffy",
+            "position": "Captain",
+            "email": "luffy@strawhats.com"
+        },
+        {
+            "id": 1122,
+            "name": "Roronoa Zoro",
+            "position": "Swordsman",
+            "email": "zoro@strawhats.com"
+        },
+        {
+            "id": 1123,
+            "name": "Nami",
+            "position": "Navigator",
+            "email": "nami@strawhats.com"
+        },
+        {
+            "id": 1124,
+            "name": "Usopp",
+            "position": "Sniper",
+            "email": "usopp@strawhats.com"
+        },
+        {
+            "id": 1125,
+            "name": "Sanji",
+            "position": "Cook",
+            "email": "sanji@strawhats.com"
+        },
+        {
+            "id": 1126,
+            "name": "Tony Tony Chopper",
+            "position": "Doctor",
+            "email": "chopper@strawhats.com"
+        },
+        {
+            "id": 1127,
+            "name": "Nico Robin",
+            "position": "Archaeologist",
+            "email": "robin@strawhats.com"
+        },
+        {
+            "id": 1128,
+            "name": "Franky",
+            "position": "Shipwright",
+            "email": "franky@strawhats.com"
+        },
+        {
+            "id": 1129,
+            "name": "Brook",
+            "position": "Musician",
+            "email": "brook@strawhats.com"
+        },
+        {
+            "id": 1130,
+            "name": "Jinbe",
+            "position": "Helmsman",
+            "email": "jinbe@strawhats.com"
+        },
+        {
+            "id": 1131,
+            "name": "Portgas D. Ace",
+            "position": "Fire Fist",
+            "email": "ace@strawhats.com"
+        },
+        {
+            "id": 1132,
+            "name": "Shanks",
+            "position": "Red-Haired",
+            "email": "shanks@strawhats.com"
+        },
+        {
+            "id": 1133,
+            "name": "Buggy",
+            "position": "Clown",
+            "email": "buggy@strawhats.com"
+        },
+        {
+            "id": 1134,
+            "name": "Dracule Mihawk",
+            "position": "Hawk Eyes",
+            "email": "mihawk@strawhats.com"
+        },
+        {
+            "id": 1135,
+            "name": "Boa Hancock",
+            "position": "Pirate Empress",
+            "email": "hancock@strawhats.com"
+        },
+        {
+            "id": 1136,
+            "name": "Trafalgar Law",
+            "position": "Surgeon of Death",
+            "email": "law@strawhats.com"
+        },
+        {
+            "id": 1137,
+            "name": "Sabo",
+            "position": "Revolutionary",
+            "email": "sabo@strawhats.com"
+        },
+        {
+            "id": 1138,
+            "name": "Crocodile",
+            "position": "Desert King",
+            "email": "crocodile@strawhats.com"
+        },
+        {
+            "id": 1139,
+            "name": "Enel",
+            "position": "God",
+            "email": "enel@strawhats.com"
+        },
+        {
+            "id": 1140,
+            "name": "Donquixote Doflamingo",
+            "position": "Heavenly Yaksha",
+            "email": "doflamingo@strawhats.com"
+        }
+    ]
+}
